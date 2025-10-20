@@ -183,7 +183,7 @@ p.note { display: none; }
 <h2><span class="yellow">メーサイの看板が見え始めます</span></h2>
 <a href="20251020_007.JPG" target="_blank"><img src="20251020_007.JPG" alt="サンプル画像" class="responsive-media"></a>
     
-<h2><span class="yellow">大きな交差点に必ずいる、お花売りの人たち</span></h2>
+<h2><span class="yellow">大きな交差点に必ずいる、飲み物やお花売りの人たち</span></h2>
 <a href="20251020_008.JPG" target="_blank"><img src="20251020_008.JPG" alt="サンプル画像" class="responsive-media"></a>
     
 <h2><span class="yellow">街灯の飾り付けが変わって、メーサイの街に入ったのがわかります</span></h2>
